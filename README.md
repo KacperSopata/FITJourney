@@ -15,16 +15,17 @@ User Roles
 
 ## Technologies
 
-    .NET 8.0
-    ASP.NET MVC
-    Entity Framework Core
-    MSSQL
-    Dependency Injection
-    Clean Architecture
-    GIT
-    Fluent Validation
-    AutoMapper
-    Google API (authentication)
+    - .NET 8.0
+    - ASP.NET MVC
+    - Entity Framework Core
+    - MSSQL
+    - Dependency Injection
+    - Clean Architecture
+    - GIT
+    - Fluent Validation
+    - AutoMapper
+    - Google API (authentication)
+
 
 ## Summary
 
